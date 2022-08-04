@@ -3,12 +3,11 @@
 *it combines 2 randomn strings (messages) into one
 *Using the rand math module
 
-## how to use:
+## how to use
 
 +import in into your vscode
 +then run with node js
 
 ### packages needed
 
-+ node js 
-
+node js

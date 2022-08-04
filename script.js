@@ -1,12 +1,15 @@
-arr1 = ["you have", "your attack", "saying goes:"];
-arr2 = ["been killed", "went wrong", "your mum has best cookies" ];
+// 3 arrays that i will use to create custom message to terminal
+arr1 = ["you should:", "your attack", "saying goes:"];
+arr2 = ["'trust no one'", "went wrong", "your mum has best cookies"];
 
 
-const gettingBlasted = () => {
+//function that first gets randomn numbers and then pics string depending on that number. 
+// after it prints the result to console
+const mixedMessage = () => {
     randInt1 = Math.floor(Math.random() * arr1.length)
-    console.log(randInt1)
+    //console.log(randInt1)
     randInt2 = Math.floor(Math.random() * arr2.length)
-    console.log(randInt2)
+    //console.log(randInt2)
     stringRand1 = "";
     stringRand2 = "";
     switch (randInt1) {
@@ -36,4 +39,4 @@ const gettingBlasted = () => {
 
 }
 
-gettingBlasted();
+mixedMessage();

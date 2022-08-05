@@ -1,7 +1,7 @@
 # hello welcome to my mixed messages project
 
 it combines 3 randomn strings (messages) into one using the randomn math module.
-topic is about life experience quotes
+topic is about non-sencical life experience quotes
 
 ## how to use
 

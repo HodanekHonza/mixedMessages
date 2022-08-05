@@ -2,6 +2,7 @@
 
 it combines 3 randomn strings (messages) into one using the randomn math module.
 topic is about non-sencical life experience quotes
+this project was added to github using git version control
 
 ## how to use
 
